@@ -1,0 +1,10 @@
+streamlit
+pandas
+numpy
+plotly
+matplotlib
+wordcloud
+networkx
+scikit-learn
+nltk
+streamlit-option-menu
